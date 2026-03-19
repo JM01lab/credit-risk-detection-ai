@@ -1,11 +1,11 @@
 # 🏦 Credit Risk Detection with Ethical AI
 ### An End-to-End Machine Learning Project on IBM watsonx.ai Studio
 
----
+
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue) ![IBM Watson](https://img.shields.io/badge/IBM-Watson%20Studio-blue) ![XGBoost](https://img.shields.io/badge/Algorithm-XGBoost-green) ![ROC AUC](https://img.shields.io/badge/ROC%20AUC-0.940-brightgreen) ![Fairness](https://img.shields.io/badge/Fairness-100%25-brightgreen) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
----
+
 
 ## 📌 Project Overview
 
