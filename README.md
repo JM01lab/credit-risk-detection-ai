@@ -193,7 +193,7 @@ jupyter notebook notebook/credit_risk_autoai_model.ipynb
 Read the full project write-up on Medium:
 > **"I Built a Bias-Free AI That Predicts Credit Risk with 94% Accuracy — Here's How"**
 
-*Link: [Add your LinkedIn/Medium article link here]*
+*Link: https://medium.com/@jeancymukaka6/building-ethical-ai-for-credit-risk-detection-with-ibm-watsonx-ai-studio-bf0a602fa688*
 
 
 
