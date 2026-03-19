@@ -13,7 +13,7 @@ This project builds a complete **AI-powered credit risk detection system** that 
 
 The project was built end-to-end on **IBM watsonx.ai Studio (AutoAI)** and evaluated using **Watson OpenScale** against the **5 pillars of ethical AI**.
 
----
+
 
 ## 🎯 Business Problem
 
@@ -26,7 +26,7 @@ Traditional credit scoring systems are often:
 
 This project explores whether a Machine Learning model can do better — and whether it can do so **ethically**.
 
----
+
 
 ## 📊 Dataset
 
@@ -55,7 +55,7 @@ This project explores whether a Machine Learning model can do better — and whe
 | `cb_person_cred_hist_length` | Credit history length |
 | **`loan_status`** | **Target variable (0 or 1)** |
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -68,7 +68,7 @@ This project explores whether a Machine Learning model can do better — and whe
 | **IBM Cloud Object Storage** | Data and model storage |
 | **Python / Jupyter Notebook** | Exported model code |
 
----
+
 
 ## ⚙️ Methodology
 
@@ -92,7 +92,7 @@ The project followed this end-to-end pipeline:
 8. Documentation & Reporting
 ```
 
----
+
 
 ## 🏆 Results
 
@@ -110,7 +110,7 @@ The project followed this end-to-end pipeline:
 - **ROC AUC of 0.940**: Excellent discrimination between risky and safe profiles
 - **Recall of 0.72**: The model misses 28% of truly risky cases — a clearly identified improvement point
 
----
+
 
 ## ⚖️ Ethical Analysis
 
@@ -128,7 +128,7 @@ The model was evaluated against the **5 pillars of ethical AI**:
 - **Disparate Impact Score: 100%** — No bias related to age (18–25 vs 26–60) or income ($0–$30K vs $30K+) was detected
 - The model treats every borrower equitably regardless of their demographic profile
 
----
+
 
 ## 📁 Repository Structure
 
@@ -153,7 +153,7 @@ credit-risk-detection-ai/
 └── 📝 README.md                          # This file
 ```
 
----
+
 
 ## 🚀 How to Run
 
@@ -177,7 +177,7 @@ pip install xgboost scikit-learn pandas numpy matplotlib
 jupyter notebook notebook/credit_risk_autoai_model.ipynb
 ```
 
----
+
 
 ## 📈 Recommendations for Improvement
 
@@ -186,7 +186,7 @@ jupyter notebook notebook/credit_risk_autoai_model.ipynb
 3. **Apply SMOTE** to address class imbalance
 4. **Re-evaluate Fairness metrics** after each improvement
 
----
+
 
 ## 📖 Related Article
 
@@ -195,7 +195,7 @@ Read the full project write-up on Medium:
 
 *Link: [Add your LinkedIn/Medium article link here]*
 
----
+
 
 ## 👤 Author
 
@@ -204,7 +204,7 @@ Read the full project write-up on Medium:
 - IBM Watson Studio | Machine Learning | AI Ethics
 - 🔗 www.linkedin.com/in/jeancy-joachim-mukaka-495411227
 
----
+
 
 ## 📜 License
 
